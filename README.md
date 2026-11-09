@@ -379,7 +379,7 @@ The project demonstrates practical skills in data analysis, SQL, business intell
 
 ## 👨‍💻 11. Author
 
-**Vansh Chhikara**
+**Vansh**
 
 Aspiring Data Analyst | BSc Agriculture Student
 
